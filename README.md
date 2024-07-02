@@ -2,7 +2,7 @@
 
 <p>یک main frame لندینگ با نیازمندی های زیر در فیگما طراحی شود و دسترسی لازمه به ایمیل mohammad13yazdani@gmail.com ارائه شود.</p>
 <p>تصاویر و اطلاعات اولیه جهت از لینک زیر دریافت گردد</p>
-<a style="display: block; text-align: right;" href="https://www.aryatehran.com/course/%D8%AF%D9%88%D8%B1%D9%87-%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1/">دوره حسابداری</a>
+<p><a style="display: block; text-align: right;" href="https://www.aryatehran.com/course/%D8%AF%D9%88%D8%B1%D9%87-%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1/">دوره حسابداری</a></p>
 <ul>
   <li>لندینگ لازمه یک لندینگ آموزشی جهت معرفی و فروش دوره حضوری و فیلم آموزشی حسابداری است</li>
   <li>فیلم و تیزر معرفی در ابتدای صفحه قرار گیرد</li>
